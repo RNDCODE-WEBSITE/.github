@@ -19,4 +19,4 @@
 
 **Сайт:** https://rndcode.com
 **Почта:** hello@rndcode.com
-**Telegram:** https://t.me/copperline_dev
+**Telegram:** https://t.me/rndcode_bot
